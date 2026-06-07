@@ -1,0 +1,131 @@
+{
+  "title": "Chou chinois sauté au porc haché",
+  "description": "Un plat de chou chinois sauté avec du porc haché, légèrement parfumé avec de la purée de piment et des alcools.",
+  "source": "https://www.youtube.com/watch?v=2XVQ94udRb8",
+  "author": "Cooking With Morgane",
+  "servings": "4",
+  "cuisine": "Chinoise",
+  "course": "Plat principal",
+  "prep_time": "10",
+  "cook_time": "10",
+  "time_required": "20",
+  "ingredients": [
+    {
+      "name": "Chou chinois",
+      "quantity": 500.0,
+      "unit": "g",
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "Porc",
+      "quantity": 200.0,
+      "unit": "g",
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "Ail",
+      "quantity": 3.0,
+      "unit": "g",
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "Sel",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "Piment",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "Saké",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "Sauce soja claire",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "Sauce d'huître",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "Fécule de maïs",
+      "quantity": 1.0,
+      "unit": "c à soupe",
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "Huile de tournesol",
+      "quantity": 2.0,
+      "unit": "c à c",
+      "preparation": null,
+      "confidence": 0.8
+    }
+  ],
+  "cookware": [],
+  "steps": [
+    {
+      "text": null,
+      "cooklang_text": "Couper @porc{200%g} en morceaux. Utiliser de l'échine, de l'épaule ou de la poitrine de porc. Vous pouvez aussi prendre du steak haché ou du poulet. Réserver.",
+      "order": 1,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Couper un chou chinois de 500 g environ. Séparer le cœur qui est plus tendre. Couper la partie basse des feuilles en bâtonnet comme ceci. C'est la partie la plus croquante. Couper la partie haute des feuilles. Réserver.",
+      "order": 2,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Écraser trois gousses d'ail. Éplucher et hacher les gousses d'ail. Préparer une cuillère à café de purée de piment. Diluer une demi-cuillère à soupe de fécule de maïs avec de cuillères à soupe d'eau. Réserver.",
+      "order": 3,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Faire chauffer une poêle à feu fort. Elle doit être bien chaude pour cuire rapidement et éviter que le chou ne rende trop d'eau. Quand la poêle est très chaude, mélanger la fécule diluée puis la verser dans la poêle. Remuer pendant 30 secondes.",
+      "order": 4,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Faire chauffer une poêle à feu moyen. Ajouter une cuillère à café d'huile de tournesol. Ajouter le porc haché. Faire revenir pendant 1 minute 30 en remuant. Ajouter la purée de piment et l'ail haché. Remuer pendant 30 secondes.",
+      "order": 5,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Ajouter une cuillère à soupe de sauce soja claire. Remuer pendant 30 secondes. Ajouter la partie basse du chou. Passer à feu fort. Ajouter les parties hautes des feuilles et le cœur. Remuer brièvement. Mélanger la fécule diluée puis la verser dans la poêle. Remuer pendant 30 secondes.",
+      "order": 6,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Ajouter une cuillère à soupe de sauce d'huître. Remuer pendant une minute. Le chou chinois sauté au porc haché est prêt.",
+      "order": 7,
+      "confidence": 0.8
+    }
+  ],
+  "notes": [],
+  "uncertainties": []
+}

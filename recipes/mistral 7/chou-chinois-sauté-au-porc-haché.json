@@ -1,0 +1,167 @@
+{
+  "title": "Chou chinois sauté au porc haché",
+  "description": "Pour faire ce chou chinois sauté au porc haché, vous utiliserez peu d’ingrédients. Le résultat est un plat bien parfumé avec du chou encore légèrement croquant. Accompagné de riz, on aura un repas quotidien sain.",
+  "source": "https://www.youtube.com/watch?v=2XVQ94udRb8",
+  "author": "Cooking With Morgane",
+  "servings": 4,
+  "cuisine": "Asian",
+  "course": "Main Course",
+  "prep_time": null,
+  "cook_time": null,
+  "time_required": null,
+  "ingredients": [
+    {
+      "name": "@chou chinois",
+      "quantity": 500.0,
+      "unit": "g",
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "@porc{200%g}",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "@ail{3%gousses}",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "sel",
+      "quantity": "1%pincée",
+      "unit": null,
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "@piment{1%c.à.c.}",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "@saké{½%c.à.s}",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "@sauce soja claire{1%c.à.s}",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "@sauce d’huître{1%c.à.s}",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "@fécule de maïs{½%c.à.s}",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "confidence": 0.8
+    },
+    {
+      "name": "@huile de tournesol{2%c.à.c.}",
+      "quantity": null,
+      "unit": null,
+      "preparation": null,
+      "confidence": 0.8
+    }
+  ],
+  "cookware": [],
+  "steps": [
+    {
+      "text": null,
+      "cooklang_text": "Couper @chou chinois en deux. Séparez le cœur qui est plus tendre.",
+      "order": 1,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Lavez le chou et coupez les feuilles en deux. Retirez la base pour détacher les feuilles. Coupez la partie basse des feuilles en bâtonnet. Coupez la partie haute des feuilles et le cœur.",
+      "order": 2,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Hachez @porc{200%g} et réservez.",
+      "order": 3,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Écrasez @ail{3%gousses} et réservez.",
+      "order": 4,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Faites chauffer #poêle à feu vif. Ajoutez @huile de tournesol{2%c.à.c.}.",
+      "order": 5,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Ajoutez la partie basse du chou et une pincée de sel. Remuez pendant une minute.",
+      "order": 6,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Ajoutez @porc{200%g} et remuez pendant 1 minute 30 en remuant.",
+      "order": 7,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Ajoutez @piment{1%c.à.c.} et @ail{3%gousses}. Remuez une minute.",
+      "order": 8,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Ajoutez @saké{½%c.à.s} et remuez 30 secondes.",
+      "order": 9,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Ajoutez @sauce soja claire{1%c.à.s} et remuez 30 secondes.",
+      "order": 10,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Ajoutez @sauce d’huître{1%c.à.s} et remuez pendant une minute.",
+      "order": 11,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Ajoutez la fécume diluée et remuez 30 secondes.",
+      "order": 12,
+      "confidence": 0.8
+    },
+    {
+      "text": null,
+      "cooklang_text": "Coupez le feu et le chouchinois sauté au porc haché est prêt.",
+      "order": 13,
+      "confidence": 0.8
+    }
+  ],
+  "notes": [],
+  "uncertainties": []
+}
